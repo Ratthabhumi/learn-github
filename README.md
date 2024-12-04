@@ -1,3 +1,3 @@
 # learn-github
 
-Nmae = Munich
+Name = Munich
